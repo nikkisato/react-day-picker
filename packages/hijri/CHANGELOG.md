@@ -1,5 +1,12 @@
 # @daypicker/hijri
 
+## 10.0.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @daypicker/react@10.0.1
+
 DayPicker follows [Semantic Versioning](http://semver.org/). See the [Releases page](https://github.com/gpbl/react-day-picker/releases) on Github for the complete list of changes, diffs and contributors, or the [list of versions](https://www.npmjs.com/package/@daypicker/hijri?activeTab=versions) published on npm.
 
 ## v10.0.0
